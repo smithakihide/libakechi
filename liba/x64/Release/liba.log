@@ -1,8 +1,0 @@
-﻿  stdafx.cpp
-  liba.cpp
-  strlib_akechi.cpp
-e:\git\lib\liba\strlib_akechi.h(80): warning C4244: 'initializing': conversion from '__int64' to 'double', possible loss of data
-e:\git\lib\liba\strlib_akechi.h(86): warning C4244: 'initializing': conversion from '__int64' to 'double', possible loss of data
-e:\git\lib\liba\strlib_akechi.h(188): warning C4244: 'initializing': conversion from '__int64' to 'double', possible loss of data
-e:\git\lib\liba\strlib_akechi.h(193): warning C4244: 'initializing': conversion from '__int64' to 'double', possible loss of data
-  liba.vcxproj -> E:\git\lib\x64\Release\liba.lib
